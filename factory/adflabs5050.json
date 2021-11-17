@@ -1,0 +1,9 @@
+{
+	"name": "adflabs5050",
+	"location": "westcentralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eef32f1f-971b-4cb3-a59d-b9ccda2fd794",
+		"tenantId": "27f7cb91-3f3f-4431-a2f9-c508ac04ae87"
+	}
+}
